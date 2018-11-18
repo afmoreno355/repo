@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14-nov-2018, 16:20:56
+    Author     : Felipe Moreno
+*/
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;        
+}
+body{
+     background-image:  url('cold-daylight-fjord-1586298.jpg');
+     background-size: 1424px;     
+}
+img{
+    border-radius: 80%;
+    width: 150px;
+    height: 150px;
+    border:5px solid white;
+}
+#referencia{    
+   margin-top: 10%;
+}
+img,h1,h3{
+    text-align: center;
+}
