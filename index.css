@@ -14,7 +14,9 @@ and open the template in the editor.
 }
 body{
      background-image:  url('cold-daylight-fjord-1586298.jpg');
-     background-size: 1424px;     
+     background-size: 1424px;   
+     border: 10px solid white; 
+     height: 100% 
 }
 img{
     border-radius: 80%;
