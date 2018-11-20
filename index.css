@@ -10,13 +10,14 @@ and open the template in the editor.
 *{
     margin: 0px;
     padding: 0px;
-    box-sizing: border-box;        
+    box-sizing: border-box;  
+     border: 10px solid white; 
+     height: 100%       
 }
 body{
      background-image:  url('cold-daylight-fjord-1586298.jpg');
      background-size: 1424px;   
-     border: 10px solid white; 
-     height: 100% 
+    
 }
 img{
     border-radius: 80%;
